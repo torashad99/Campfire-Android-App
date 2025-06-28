@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Campfire</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="add_new_post">Add New Post</string>
+    <string name="image_upload_label">Upload Picture</string>
+
+
+    <string name="new_post_caption_label">Caption</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="label">Enter description</string>
+    <string name="label2">--Select Legend Type--</string>
+    <string name="lincoln_hall_location_description">UIUC lore states that the Abraham Lincoln bust in the foyer stairs of Lincoln Hall is said to deliver temporary academic performance boosts for University of Illinois students who rub his nose.</string>
+    <string name="stories">Stories</string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="submit_a_new_location">Submit a New Location</string>
+    <string name="no_posts_to_display_message">No stories yet. Be the first to share yours. \n Press the add icon below.</string>
+    <string name="back">Back</string>
+    <string name="new_post_title_label">Title (optional)</string>
+    <string name="filler_story_title">Example story title</string>
+    <string name="filler_story_content">Example post content</string>
+    <string name="filler_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac leo nec libero scelerisque ultrices. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas ac pellentesque purus. Praesent malesuada, velit non tincidunt semper, mi urna varius nunc, non dictum neque ante id lorem. Cras varius consectetur quam, a mattis est maximus a. Praesent nec bibendum nulla, sed finibus tortor.</string>
+    <string name="filler_location_name">Location Name</string>
+    <string name="list_view_label">List View</string>
+    <string name="map_view_label">Map View</string>
+    <string name="opening_legend_suggestion">Click on a Pin to know more about the urban legend!</string>
+    <string name="filler_location_title">Location Title</string>
+</resources>

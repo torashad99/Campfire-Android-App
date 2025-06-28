@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="urbanLegendTypes">
+        <item>"--Please select a legend type--"</item>
+        <item>Luck</item>
+        <item>Historical</item>
+        <item>Spooky</item>
+        <item>Mystery</item>
+        <item>Treasure</item>
+        <item>Other</item>
+    </string-array>
+</resources>

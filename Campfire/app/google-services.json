@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955076561480",
+    "project_id": "campfire-49c87",
+    "storage_bucket": "campfire-49c87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955076561480:android:a544a5aba4643fe9f2a67d",
+        "android_client_info": {
+          "package_name": "com.example.campfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "${FIREBASE_API_KEY}"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
